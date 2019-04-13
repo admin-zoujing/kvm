@@ -1,5 +1,5 @@
 #!/bin/bash
-#安装kvm脚本
+#centos7安装kvm脚本
 
 chmod -R 777 /usr/local/src/
 #1、时间时区同步，修改主机名
